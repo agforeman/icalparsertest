@@ -1,0 +1,16 @@
+{
+  "name": "icalparsertest",
+  "version": "1.0.0",
+  "description": "Simple test program for retrieving a parsing ical files using npn ical",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alex Foreman",
+  "license": "ISC",
+  "dependencies": {
+    "ical": "^0.6.0",
+    "mongoose": "^5.5.5",
+    "mongodb": "^3.2.3"
+  }
+}
